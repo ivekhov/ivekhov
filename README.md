@@ -13,7 +13,8 @@ Interests: currently studying frontend and JS on Hexlet
 **My tech stack**: Python, JS, MS SQL, PostgreSQL, R, Docker, Redash, Metabase
 
 Study projects & work experience: 
-- Frontend Developer Hexlet 1st project  https://github.com/ivekhov/frontend-project-lvl1 
+- Utility for comaparing two files and building diffs https://github.com/ivekhov/frontend-project-46
+- CLI games  https://github.com/ivekhov/frontend-project-lvl1 
 - Python Developer Hexlet 1st project https://github.com/ivekhov/python-project-lvl1
 - Project for media-investments analysis on the basis of Facebook Robyn (R)
 - Dashboards on Redash, Metabase deployed on AWS instances with PostgreSQL databases
