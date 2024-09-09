@@ -1,22 +1,23 @@
 ## Hi, there!
 
 ----
-I`m a Data lead in Advertising Agency, invent and build performing analytical solutions
+I`m a Analytics Team lead at VK dot com, invent and build performing analytical solutions
 
 How to contact me: ivekhov at gmail dot com
 
-Programming, data and computer science get on: Hexlet, Otus, DataCamp, Cloudguru, StrataStrach.
+Programming, data and computer science get on: Hexlet, DataCamp, StrataStrach, Karpov Courses, SQL Habit
 Academic education: PhD in social sciences.
 
-Interests: currently studying frontend and JS on Hexlet
+Interests: currently studying Python Programmer Profession at Hexlet
 
-**My tech stack**: Python, JS, MS SQL, PostgreSQL, R, Docker, Redash, Metabase
+**My tech stack**: Python, JS, MS SQL, PostgreSQL, Docker, BI sql vizualizers (Superset, Redash)
 
-Study projects & work experience: 
-- Utility for comaparing two files and building diffs https://github.com/ivekhov/frontend-project-46
-- CLI games  https://github.com/ivekhov/frontend-project-lvl1 
-- Python Developer Hexlet 1st project https://github.com/ivekhov/python-project-lvl1
-- Project for media-investments analysis on the basis of Facebook Robyn (R)
+Projects for study & work experience: 
+- Utility for comparing two files and building diffs on
+  - Python https://github.com/ivekhov/python-project-lvl2
+  - JS: https://github.com/ivekhov/frontend-project-46
+- Command line utility on
+  - Python https://github.com/ivekhov/python-project-lvl1
+  - JS https://github.com/ivekhov/frontend-project-lvl1 
+- Flask application for page analyzer (wip): https://github.com/ivekhov/python-project-83
 - Dashboards on Redash, Metabase deployed on AWS instances with PostgreSQL databases
-- Cracking test tasks from companies
-- Algo trainings
